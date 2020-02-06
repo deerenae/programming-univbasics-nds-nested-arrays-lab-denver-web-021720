@@ -38,6 +38,7 @@ def sorted_matrix
     ["Strawberries",  "Potatoes",  "Grapes",  "Avocadoes",  "Asparagus" ]
     
     ]
+    storage_room.sort
 end
 
 def matrix_lookup(matrix, row, column)
